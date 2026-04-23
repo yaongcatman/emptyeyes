@@ -149,3 +149,6 @@ images/: 웹 버전에 사용되는 이미지 자산
 
 URL: https://github.com/yaongcatman/emptyeyes
 
+2. 개발 환경 설정 스크린샷 (증빙용)
+
+<img width="573" height="372" alt="스크린샷 2026-04-23 오후 9 06 33" src="https://github.com/user-attachments/assets/e5987d0a-d326-493d-9f64-8992a5a171cc" />
