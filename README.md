@@ -160,3 +160,9 @@ URL: https://github.com/yaongcatman/emptyeyes
 
 퀴즈목록
 <img width="471" height="275" alt="스크린샷 2026-04-23 오후 9 09 14" src="https://github.com/user-attachments/assets/9042b1c0-f32d-4310-b005-0f9d223cf2f9" />
+
+플레이
+<img width="506" height="309" alt="스크린샷 2026-04-23 오후 9 09 49" src="https://github.com/user-attachments/assets/62a4b4d0-46f5-4585-813b-7c96cd1043aa" />
+
+점수
+<img width="457" height="510" alt="스크린샷 2026-04-23 오후 9 10 36" src="https://github.com/user-attachments/assets/0d2d0c72-0b32-4440-8952-ddb12007b7b0" />
