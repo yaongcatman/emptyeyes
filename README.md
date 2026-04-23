@@ -152,3 +152,8 @@ URL: https://github.com/yaongcatman/emptyeyes
 2. 개발 환경 설정 스크린샷 (증빙용)
 
 <img width="573" height="372" alt="스크린샷 2026-04-23 오후 9 06 33" src="https://github.com/user-attachments/assets/e5987d0a-d326-493d-9f64-8992a5a171cc" />
+
+3. 프로그램 실행 결과 스크린샷 (4종)
+
+퀴즈추가
+<img width="538" height="319" alt="스크린샷 2026-04-23 오후 9 08 07" src="https://github.com/user-attachments/assets/a7ce7873-79d8-4636-a07e-a8a0ae345f46" />
