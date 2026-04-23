@@ -147,3 +147,30 @@ images/: 웹 버전에 사용되는 이미지 자산
     ]
 }
 ```
+1. GitHub 저장소 URL
+
+URL: https://github.com/yaongcatman/emptyeyes
+
+2. 개발 환경 설정 스크린샷 (증빙용)
+
+<img width="573" height="372" alt="스크린샷 2026-04-23 오후 9 06 33" src="https://github.com/user-attachments/assets/e5987d0a-d326-493d-9f64-8992a5a171cc" />
+
+
+3. 프로그램 실행 결과 스크린샷 (4종)
+
+퀴즈추가
+<img width="538" height="319" alt="스크린샷 2026-04-23 오후 9 08 07" src="https://github.com/user-attachments/assets/a7ce7873-79d8-4636-a07e-a8a0ae345f46" />
+
+퀴즈목록
+<img width="471" height="275" alt="스크린샷 2026-04-23 오후 9 09 14" src="https://github.com/user-attachments/assets/9042b1c0-f32d-4310-b005-0f9d223cf2f9" />
+
+플레이
+<img width="506" height="309" alt="스크린샷 2026-04-23 오후 9 09 49" src="https://github.com/user-attachments/assets/62a4b4d0-46f5-4585-813b-7c96cd1043aa" />
+
+점수
+<img width="457" height="510" alt="스크린샷 2026-04-23 오후 9 10 36" src="https://github.com/user-attachments/assets/0d2d0c72-0b32-4440-8952-ddb12007b7b0" />
+
+
+
+
+
