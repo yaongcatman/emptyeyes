@@ -145,4 +145,7 @@ images/: 웹 버전에 사용되는 이미지 자산
     ]
 }
 ```
+1. GitHub 저장소 URL
+
+URL: https://github.com/yaongcatman/emptyeyes
 
