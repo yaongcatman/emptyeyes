@@ -166,3 +166,8 @@ URL: https://github.com/yaongcatman/emptyeyes
 
 점수
 <img width="457" height="510" alt="스크린샷 2026-04-23 오후 9 10 36" src="https://github.com/user-attachments/assets/0d2d0c72-0b32-4440-8952-ddb12007b7b0" />
+
+커밋 10개 
+<img width="559" height="307" alt="스크린샷 2026-04-23 오후 9 46 08" src="https://github.com/user-attachments/assets/68d317ae-f7d6-45c2-9299-cc3e19e543fe" />
+<img width="965" height="741" alt="스크린샷 2026-04-23 오후 9 44 50" src="https://github.com/user-attachments/assets/c4bd5631-1afb-4cea-ba81-57f29f557730" />
+
